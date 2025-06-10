@@ -1,17 +1,6 @@
 # Hi there 👋
 
-I'm LeastBit.
-
-<table align="center">
-  <tr>
-    <td valign="top" width="50%" height="100%">
-      <img src="https://github-readme-stats.vercel.app/api?username=LeastBit&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-    </td>
-    <td valign="top" width="50%" height="200%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeastBit&layout=compact" alt="Top Langs"/>
-    </td>
-  </tr>
-</table>
+I'm LiHao.
 
 ## Skills
 
@@ -29,3 +18,10 @@ I'm LeastBit.
 ## My Achievements
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=LeastBit)
+
+<img src="https://github-readme-stats.vercel.app/api?username=LeastBit&show_icons=true&theme=transparent" alt="GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeastBit&layout=compact" alt="Top Langs"/>
+
+
+
