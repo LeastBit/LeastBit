@@ -1,7 +1,17 @@
-<!-- 欢迎语与打字特效 -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=58A6FF&width=435&lines=欢迎来到我的GitHub世界！;全栈开发者;开源爱好者;技术探索者" alt="Typing SVG" />
-</div>
+# Hi there 👋
+
+I'm [Your Name], a [Your Job Title] from [Your Location]. I love [Your Interests].
+
+## About Me
+
+- 🔭 I’m currently working on [Project Name]
+- 🌱 I’m currently learning [Skill/Technology]
+- 👯 I’m looking to collaborate on [Project Type]
+- 🤔 I’m looking for help with [Project/Problem]
+- 💬 Ask me about [Topic]
+- 📫 How to reach me: [Your Email]
+- 😄 Pronouns: [Your Pronouns]
+- ⚡ Fun fact: [Interesting Fact About You]
 
 <!-- 统计卡片与资料奖杯 -->
 <table align="center">
@@ -17,22 +27,8 @@
   </tr>
 </table>
 
-<!-- 使用语言统计与活动图 -->
-<table align="center">
-  <tr>
-    <td valign="top" width="50%">
-      <!-- 常用语言统计 -->
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeastBit&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" />
-    </td>
-    <td valign="top" width="50%">
-      <!-- GitHub活动统计图 -->
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeastBit&theme=github-compact&height=200&hide_border=true" alt="Activity Graph" />
-    </td>
-  </tr>
-</table>
+## My Skills
 
-<!-- 技能徽章 -->
-## 🛠 技术栈
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
@@ -44,23 +40,6 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-<!-- 社交统计卡片（可选） -->
-## 🌐 社交足迹
-<p align="center">
-  <a href="https://leetcode.com/[你的LeetCode用户名]/">
-    <img src="https://stats.justsong.cn/api/leetcode?username=[你的LeetCode用户名]" alt="LeetCode Stats" height="120" />
-  </a>
-  <a href="https://space.bilibili.com/[你的B站ID]">
-    <img src="https://stats.justsong.cn/api/bilibili/?id=[你的B站ID]" alt="Bilibili Stats" height="120" />
-  </a>
-</p>
+## My Achievements
 
-<!-- 访客计数器 -->
-## 👀 访客统计
-<p align="center">
-  <img src="https://profile-counter.glitch.me/LeastBit/count.svg" alt="Visitor Count" />
-</p>
-<!---
-LeastBit/LeastBit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![trophy](https://github-profile-trophy.vercel.app/?username=LeastBit)
