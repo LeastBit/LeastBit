@@ -4,6 +4,7 @@
 <p align="center">
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,c,latex,html,css,javascript,mysql,vuejs,vite,typescript,java,spring,react,matlab,pytorch,r,nextjs&theme=dark&perline=17" alt="My Skills" /></a>
 </p>
+</p>
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=LeastBit" alt="trophy" />
