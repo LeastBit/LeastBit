@@ -1,5 +1,5 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&color=000000&center=true&vCenter=true&width=1000&height=100&lines=%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0LiHao%E7%9A%84GitHub%E4%BB%A3%E7%A0%81%E4%B8%96%E7%95%8C%EF%BC%81;Welcome+to+LiHao's+GitHub+Code+World!" alt="Typing SVG" /></a>
-<p align="center">My Skills</p>
+<p align="center">>My Skills and Achievements<</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -11,8 +11,6 @@
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
-
-<p align="center">My Achievements</p>
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=LeastBit" alt="trophy" />
@@ -28,6 +26,10 @@
     </td>
   </tr>
 </table>
+
+<p align="center">
+>Visitors' records<
+</p>
 
 <p align="center">
 <img src="https://profile-counter.glitch.me/LeastBit/count.svg" alt="Visitor Count" />
