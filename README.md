@@ -6,9 +6,6 @@
 </p>
 </p>
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=LeastBit" alt="trophy" />
-</p>
 
 <table align="center" style="height: 100%;">
   <tr>
