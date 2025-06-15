@@ -4,7 +4,6 @@
 <p align="center">
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,c,latex,html,css,javascript,mysql,vuejs,vite,typescript,java,spring,react,matlab,pytorch,r,nextjs&theme=dark&perline=17" alt="My Skills" /></a>
 </p>
-</p>
 
 
 <table align="center" style="height: 100%;">
