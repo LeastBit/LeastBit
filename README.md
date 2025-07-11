@@ -19,11 +19,4 @@
   </tr>
 </table>
 
-<p align="center">
->Visitors' records<
-</p>
-
-<p align="center">
-<img src="https://profile-counter.glitch.me/LeastBit/count.svg" alt="Visitor Count" />
-</p>
 
