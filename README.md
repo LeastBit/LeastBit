@@ -11,7 +11,7 @@
 <table align="center" style="height: 100%;">
   <tr>
     <td valign="middle" width="50%" height="100%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=LeastBit&hide=contribs,issues&show_icons=true&theme=transparent" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=LeastBit" alt="GitHub Stats" />
     </td>
     <td valign="middle" width="50%" height="100%" align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeastBit&layout=compact" alt="Top Langs"/>
