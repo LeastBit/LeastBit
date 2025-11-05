@@ -2,11 +2,6 @@
 
 My Blog : https://blog.bytbit.top/
 
-寻求一份在2026.2-2026.7左右为期半年的工作，地点尽量在一二线城市，薪资接受在（6k-6.5k）.
-意向：研究助理，前后端开发，数据分析等.
-
-Myresume : https://blog.bytbit.top/images/Myresume.svg
-
 <p align="center">>My Skills and Achievements<</p>
 
 <p align="center">
