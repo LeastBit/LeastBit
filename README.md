@@ -8,22 +8,9 @@ My Blog : https://blog.bytbit.top/
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,c,latex,html,css,javascript,mysql,vuejs,vite,typescript,java,spring,react,matlab,pytorch,r,nextjs&theme=dark&perline=17" alt="My Skills" /></a>
 </p>
 
-
-<table align="center" style="height: 100%;">
-  <tr>
-    <td valign="middle" width="50%" height="100%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=LeastBit" alt="GitHub Stats" />
-    </td>
-    <td valign="middle" width="50%" height="100%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeastBit&layout=compact" alt="Top Langs"/>
-    </td>
-  </tr>
-</table>
-
 <div align="center">
 <!-- 添加动态数据卡片 -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LeastBit&theme=radical" width="33%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LeastBit&theme=radical" width="33%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LeastBit&theme=radical" width="33%" />
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LeastBit" width="33%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LeastBit" width="33%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LeastBit" width="33%" />
 </div>
