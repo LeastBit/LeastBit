@@ -20,4 +20,10 @@ My Blog : https://blog.bytbit.top/
   </tr>
 </table>
 
+<div align="center">
+<!-- 添加动态数据卡片 -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LeastBit&theme=radical" width="33%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LeastBit&theme=radical" width="33%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LeastBit&theme=radical" width="33%" />
 
+</div>
