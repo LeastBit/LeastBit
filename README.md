@@ -2,7 +2,7 @@
 
 My Blog : https://blog.bytbit.top/
 
-找不到工作的散修 接小型公司零散开发任务（Agent,中小型全栈，RAG公司知识库，BUG修复等）
+接小型公司零散开发任务（Agent,中小型全栈，RAG公司知识库，BUG修复等）
 合作联系微信：`Developer-lee`
 
 <p align="center">>My Skills and Achievements<</p>
